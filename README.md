@@ -1,4 +1,4 @@
-# Hello Hackers Solutions
+# pwn.college solutions
 
 This repository contains my solutions to the challenges in various dojos in [pwn.college](https://pwn.college). Each solution includes a detailed write-up of my thought process, methodologies, and code/commands used to achieve the objectives.
 
