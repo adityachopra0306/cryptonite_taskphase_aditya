@@ -21,7 +21,12 @@ The pwn.college website presents various challenges focused on essential cyberse
 4. [Digesting Documentation](Digesting_Documentation.md)
 5. [File Globbing](File_Globbing.md)
 6. [Practicing Piping](Practicing_Piping.md)
-
+7. [Shell Variables](Shell_Variables.md)
+8. [Processes and Jobs](Processes_and_Jobs.md)
+9. [Perceiving Permissions](Perceiving_Permissions.md)
+10. [Untangling Users](Untangling_Users.md)
+11. [Chaining Commands](Chaining_Commands.md)
+12. [Pondering PATH](Pondering_PATH.md)
 
 ## Setup
 
