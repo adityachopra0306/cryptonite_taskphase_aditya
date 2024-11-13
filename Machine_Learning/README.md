@@ -14,13 +14,13 @@ This project aims to provide comprehensive resources for understanding and imple
 ## Contents
 
 ### Libraries
-1. [NumPy](Libraries/NumPy.md)
-2. [Pandas](Libraries/Pandas.md)
-3. [MatPlotLib](Libraries/MatPlotLib.md)
+1. [NumPy](Libraries/NumPy.ipynb)
+2. [Pandas](Libraries/Pandas.ipynb)
+3. [MatPlotLib](Libraries/MatPlotLib.ipynb)
 
 ### Machine Learning Algorithms
-1. [Linear Regression](Algorithms/Linear_Regression/Theory.md)
-2. [Logistic Regression](Algorithms/Logistic_Regression/Theory.md)
+1. [Linear Regression](Algorithms/Linear_Regression/LinearRegression.ipynb)
+2. [Logistic Regression](Algorithms/Logistic_Regression/LogisticRegression.ipynb)
 
 ---
 
