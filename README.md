@@ -5,3 +5,4 @@ This repository stores the writeups, documentation and implementations for the t
 ## Contents:
 1. [pwn.college Solutions](Linux_Luminarium/README.md)
 2. [Machine Learning](Machine_Learning/README.md)
+3. [niteCTF Writeup](niteCTF/Freakada3301.ipynb)

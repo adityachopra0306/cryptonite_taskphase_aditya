@@ -21,11 +21,11 @@ This project aims to provide comprehensive resources for understanding and imple
 ### Machine Learning Algorithms
 1. [Linear Regression](Algorithms/Linear_Regression/LinearRegression.ipynb)
 2. [Logistic Regression](Algorithms/Logistic_Regression/LogisticRegression.ipynb)
-3. [Support Vector Machines](Algorithms/Support_Vector_Machines/SVM.ipynb)
-4. [K-Nearest Neighbours](Algorithms/KNN/KNN.ipynb)
-5. [Decision Trees](Algorithms/Decision_Trees/DecisionTree.ipynb)
-6. [Random Forests](Algorithms/Random_Forests/RandomForests.ipynb)
-7. [Ensemble Models](Algorithms/Ensemble_Models/EnsembleModels.ipynb)
+3. [](Algorithms/Support_)
+4. [](Algorithms/)
+5. [](Algorithms/)
+6. [](Algorithms/)
+7. [](Algorithms/)
 
 ---
 
